@@ -11,7 +11,7 @@ My research centers on developing interpretable, ethical, and human-centered AI 
 - Human-AI interaction paradigms
 
 ## 🎓 Education
-- Currently Master's by Research in Information & Communication Technology
+- Master's by Research in Information & Communication Technology
 - Bachelor's in Computer Science (Software Development)
 
 ## 💻 Technical Skills
