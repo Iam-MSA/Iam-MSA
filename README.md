@@ -3,6 +3,8 @@
 ## 👋 About Me
 Graduate Research Assistant with a focus on Machine Learning and Explainable AI. Currently pursuing a Master's by Research in ICT, building on a strong foundation in Computer Science (Software Development).
 
+![MSA's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iam-MSA&theme=gotham&show_icons=true&hide_rank=true)
+
 ## 🔍 Research Focus
 My research centers on developing interpretable, ethical, and human-centered AI systems. I'm particularly interested in:
 - Explainable Artificial Intelligence (XAI)
